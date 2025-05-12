@@ -1,0 +1,6 @@
+long_term_forecast_timemixer_psod_TimeXer_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl1_df2048_expand2_dc4_fc3_ebtimeF_dtTrue_exp_0  
+mse:0.04542675241827965, mae:0.1344130039215088, dtw:Not calculated
+
+long_term_forecast_timemixer_psod_multivariate_full_TimeXer_custom_ftM_sl96_ll48_pl24_dm512_nh8_el2_dl1_df2048_expand2_dc4_fc3_ebtimeF_dtTrue_exp_0  
+mse:0.316503643989563, mae:0.3455415666103363, dtw:Not calculated
+
